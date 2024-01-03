@@ -4,7 +4,7 @@
 
 
 <p align="center">
-I'm on my way to becoming a software developer. 🚀 With experience as a project manager, I've led various projects with my team from university. I'm fueled by my passion for computer science and software development 🧑‍💻, always eager to dive into new technologies. 💻 Solving intricate logical puzzles brings me joy! 💡My persistence fuels my dedication—I don't back down from challenges and have a knack for discovering alternative solutions, no matter how daunting they may seem 🔧.
+I'm on the path to becoming a software developer, charging ahead like a rocket! 🚀 As a project manager, I've led diverse university projects, collaborating with my awesome team. I'm passionate about computer science and software development 🧑‍💻, and I've dipped my toes into the AI pool with a completed project. 🤖 It's an exciting field that has me hooked! 💻 Solving intricate logical puzzles lights up my day, and my determination keeps me pushing through challenges, always finding those alternative solutions 🔧.
 </p>
 
 <h2 align="center">Technology Stack 🤖</h2>
