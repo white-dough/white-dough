@@ -11,10 +11,13 @@ I'm on the path to becoming a software developer, charging ahead like a rocket! 
 
 * C#
    * .NET FRAMEWORK
-* PHP
+- OpenAI (implemented using JS)
+  - GPT-3.5 TURBO
+  - GPT-4
 - PYTHON
   - DJANGO
 - GDSCRIPT 4
+* PHP
 - C++
   - IOT PROGRAMMING
 - SQL
