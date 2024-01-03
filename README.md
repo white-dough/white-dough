@@ -20,7 +20,10 @@ I'm on the path to becoming a software developer. 🚀 As a project manager, I'v
 * PHP
 - C++
   - IOT PROGRAMMING
-- SQL
+- DATABASE INFRASTRUCTURE
+  - Supabase Hosting
+  - XAMPP Localhost
+- DATABASE
   - POSTGRESQL
   - MYSQL
   - MSSQL
